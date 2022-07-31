@@ -29,16 +29,16 @@ const App = () => {
 	
 	//...
 
-	const  showInAppReview  =  ()  =>  {
+	const showInAppReview = () => {
 		openInAppReview()
-		  .then((response)  =>  {
-			  //success
-			  Alert.alert(response)
-			})
-			.catch((error)  =>  {
-				//failure
-				Alert.alert(error.message)
-			})
+		.then((response)  =>  {
+			//success
+			Alert.alert(response)
+		})
+		.catch((error)  =>  {
+			//failure
+			Alert.alert(error.message)
+		})
 	}
 
 	//...
