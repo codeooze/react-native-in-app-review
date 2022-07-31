@@ -15,6 +15,6 @@ const ReactNativeInAppReview = NativeModules.ReactNativeInAppReview  ? NativeMod
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return ReactNativeInAppReview.multiply(a, b);
+export function openInAppReview(): Promise<any> {
+  return ReactNativeInAppReview.openInAppReview();
 }
