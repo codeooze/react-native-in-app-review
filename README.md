@@ -1,6 +1,5 @@
 
 <br/>
-<br/>
 
 <img src="https://raw.githubusercontent.com/codeooze/react-native-in-app-review/main/inAppReview-package-icon.png" alt="drawing" width="150" height="150"/>
 
