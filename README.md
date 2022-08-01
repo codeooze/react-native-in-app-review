@@ -1,4 +1,9 @@
 
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/codeooze/react-native-in-app-review/main/inAppReview-package-icon.png" alt="drawing" width="150" height="150"/>
+
 # @codeooze/react-native-in-app-review
 
 The Google Play In-App Review API lets you prompt users to submit Play Store ratings and reviews without the inconvenience of leaving your app or game.
