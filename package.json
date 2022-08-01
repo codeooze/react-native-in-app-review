@@ -8,12 +8,12 @@
   "react-native": "src\\index.tsx",
   "source": "src/index",
   "files": [
-    "android",
     "src",
     "lib",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__",
+    "android",
     "mock.js"
   ],
   "scripts": {
